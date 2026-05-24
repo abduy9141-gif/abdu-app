@@ -1,2 +1,2 @@
 # abdu-app
-Daily tasks
+Daily tasks app created by abdu
